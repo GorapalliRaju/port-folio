@@ -9,7 +9,7 @@ const EmailSection = () => {
       <div className="text-center">
         <h5 className="text-xl font-bold mb-6 mt-16">Get in Touch</h5>
         <p className="text-[#ADB7BE] mb-8 max-w-3xl mx-auto">
-          Feel free to reach out if you have any questions or opportunities to discuss. I'm always open to connecting!
+          Feel free to reach out if you have any questions or opportunities to discuss. I always open to connecting!
         </p>
       </div>
 
