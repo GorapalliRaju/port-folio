@@ -27,9 +27,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Btech : Vignan's Institute Of Information Technology - Duvvada, Vishakapatnam</li>
+        <li>Btech : Vignans Institute Of Information Technology - Duvvada, Vishakapatnam</li>
         <li>Intermediate : Narayana Jr College - NAD</li>
-        <li>Tenth : ST.ANN'S E.M HIGH SCHOOL - Mangalapalem</li>
+        <li>Tenth : ST.ANNS E.M HIGH SCHOOL - Mangalapalem</li>
       </ul>
     ),
   },
